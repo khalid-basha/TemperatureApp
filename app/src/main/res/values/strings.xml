@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temperature App</string>
+    <string name="enter_device_id">Enter Device ID</string>
+    <string name="check_device_id">Check Device ID</string>
+</resources>
